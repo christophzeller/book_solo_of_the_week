@@ -6,6 +6,17 @@ Wann hast du das letzte Mal Brüste gesehen? Und damit meinen wir nicht die Brü
 \pagebreak
 
 ## Vorraussetzungen
+Damit Du optimal von diesem Buch profitierst solltest Du bereits ein wenig Gitarre spielen können.
+
+## Techniken
+
+### Slides
+
+### Bending
+
+### Tapping
+
+### Sweeping
 
 \pagebreak
 
