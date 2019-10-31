@@ -1,0 +1,13 @@
+---
+title: "Solo der Woche"
+subtitle: ""
+author: [Daniel Knauer, Jörn Bögeholz]
+titlepage: true
+toc: true
+toc-own-page: true
+toc-depth: 2
+fontsize: 12pt
+fontfamily: arev
+include-before:
+- '`\newpage{}`{=latex}'
+---

@@ -1,9 +1,5 @@
-# Solo der Woche 
-## 52 Solos mit denen Du garantiert in die Schlüpfer der Frauen kommst
-### mit Geldzurückgarantie
-
 \pagebreak
-
+\pagenumbering{arabic}
 ## Einleitung
 Wann hast du das letzte Mal Brüste gesehen? Und damit meinen wir nicht die Brüste deiner Mutter oder gar deine eigenen!
 
