@@ -18,7 +18,7 @@ Weiter geht's in der Rubrik "Solo der Woche" mit dem Solo zum neuen Excess Press
 Die Tonart des Soloteils ist dieses Mal nicht eindeutig bestimmbar, da es sich nur um ein Riff mit drei Powerchords handelt. 
 Hier erstmal das Riff:
 
-![Riff](images/evil_lynn_solo_riff.png "Riff")
+![Riff](images/evil_lynn/evil_lynn_solo_riff.png "Riff")
 
 Die Powerchords sind C5, D5 und H5. Das sind sortiert die Töne C - D - F - G - A - H. 
 Je nachdem, ob wir noch ein E oder ein Es hinzufügen, sind wir entweder in F-Dur / D-Moll oder B-Dur / G-Moll unterwegs.
@@ -26,7 +26,7 @@ Da im restlichen Song ein E vorkommt, legen wir uns auf D-Moll fest.
 
 ### Takte 5 bis 8
 
-![Takte 1 bis 8](images/evil_lynn_solo_takte_5_bis_8.png "Riff")
+![Takte 1 bis 8](images/evil_lynn/evil_lynn_solo_takte_5_bis_8.png "Riff")
 
 Um erstmal gemütlich ins Solo reinzukommen, imitieren wir rhythmisch das Riff und spielen lediglich die Quinten der 
 Powerchords eine Oktave höher mit dem zusätzlichen Durchgangston F.
@@ -34,13 +34,13 @@ Powerchords eine Oktave höher mit dem zusätzlichen Durchgangston F.
 
 ### Takte 9 bis 12
 
-![Takte 9 bis 12](images/evil_lynn_solo_takte_9_bis_12.png "Takte 9 bis 12")
+![Takte 9 bis 12](images/evil_lynn/evil_lynn_solo_takte_9_bis_12.png "Takte 9 bis 12")
 
 Um die Spannung etwas zu steigern wiederholen wir die letzten Takte, ergänze aber die Sechzehntel-Noten auf der Zählzeit 1.
 
 ### Takte 13 bis 16
 
-![Takte 13 bis 16](images/evil_lynn_solo_takte_13_bis_16.png "Takte 13 bis 16")
+![Takte 13 bis 16](images/evil_lynn/evil_lynn_solo_takte_13_bis_16.png "Takte 13 bis 16")
 
 Jetzt geht es ab: Sweep-Picking mit Achtel-Triolen gefolgt von einem kleinen Lauf in Viertel-Triolen.
 Das erste Arpeggio ist ein D-Moll, das Arpeggio in Takt 15 ein B-Dur. In Takt 16 spielen wir statt dem C ein Cis und 
@@ -49,14 +49,14 @@ gehe damit in den Modus D harmonisch Moll.
 
 ### Takte 17 bis 21
 
-![Takte 17 bis 21](images/evil_lynn_solo_takte_19_bis_21.png "Riff")
+![Takte 17 bis 21](images/evil_lynn/evil_lynn_solo_takte_19_bis_21.png "Riff")
 
 Warum das Rad neu erfinden? Takt 17 und 18 sind die Wiederholung von 13 und 14. So einfach!
 Den Abschluss des Solos bildet ein Lauf, bei dem wir die Noten jeweils viermal spielen, das nennt man auch 
 Tremolo-Picking. 
 Mit dem kleinen Umweg über Cis landen wir dann im Zielton D und fertisch! Viel Spaß beim Üben.
 
-<div style="page-break-after: always;"></div>
+\pagebreak
 
 ## Woche 2 - Cream Cheese
 
@@ -107,50 +107,50 @@ spielen quasi die Melodie.
 Da mir das so gut gefällt, wiederholen wir das Muster nochmal mit dem E-Dur-Dreiklang, spiele aber ein leicht 
 verändertes Melodie-Tapping und lande ganz geschmackssicher in Takt 18 mit dem C# im Grundton von C#-Moll. Voilá!
 
-## Woche 3 - brand new start
+## Woche 3 - Brand New Start
 
-## Woche 4 - Satchurday evening
+## Woche 4 - Satchurday Evening
 
-## Woche 5 - Creepy changes
+## Woche 5 - Creepy Changes
 
-## Woche 6 - on my way
+## Woche 6 - On My Way
 
-## Woche 7 - jamtrack e-dur
+## Woche 7 - Jamtrack E-Dur
 
-## Woche 8 - red carpet girl
+## Woche 8 - Red Carpet Girl
 
-## Woche 9 - beyond the veil
+## Woche 9 - Beyond The Veil
 
-## Woche 10 - dream
+## Woche 10 - Dream
 
-## Woche 11 - into the darkness
+## Woche 11 - Into The Darkness
 
-## Woche 12 - Blood angel
+## Woche 12 - Blood Angel
 
-## Woche 13 - voices in my head
+## Woche 13 - Voices In My Head
 
-## Woche 14 - joe would be proud
+## Woche 14 - Joe Would Be Proud
 
-## Woche 15 - crapping on your thrown
+## Woche 15 - Crapping On Your Thrown
 
-## Woche 16 - danish spring
+## Woche 16 - Danish Spring
 
-## Woche 17 - jamming in c
+## Woche 17 - Jamming In C
 
-## Woche 18 - clown in the mall
+## Woche 18 - Clown In The Mall
 
-## Woche 19 - legion
+## Woche 19 - Legion
 
-## Woche 20 - letter of stallone
+## Woche 20 - Letter Of Stallone
 
-## Woche 21 - my Life
+## Woche 21 - My Life
 
-## Woche 22 - frost inside your lace
+## Woche 22 - Frost Inside Your Lace
 
-## Woche 23 - hangover
+## Woche 23 - Hangover
 
-## Woche 24 - unbreakable
+## Woche 24 - Unbreakable
 
-## Woche 25 - jamtrack challenge
+## Woche 25 - Jamtrack Challenge
 
-## Woche 26 - stormbringer
+## Woche 26 - Stormbringer
