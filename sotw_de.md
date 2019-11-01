@@ -1,7 +1,14 @@
 \pagebreak
 \pagenumbering{arabic}
+## Die Autoren
+
+![Daniel & Jörn](images/authors/daniel_joern.jpg "Daniel und Jörn")
+
+\pagebreak
+
 ## Einleitung
 Wann hast du das letzte Mal Brüste gesehen? Und damit meinen wir nicht die Brüste deiner Mutter oder gar deine eigenen!
+Merkst du was? Es könnte damit zu tun haben, dass Du deine Gitarre nicht gut genug beherrscht, um bei den Damen zu punkten!
 
 \pagebreak
 
