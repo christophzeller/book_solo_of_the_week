@@ -10,4 +10,5 @@ fontsize: 12pt
 fontfamily: arev
 include-before:
 - '`\newpage{}`{=latex}'
+- '\pagenumbering{gobble}'
 ---
