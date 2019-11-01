@@ -12,6 +12,8 @@ Damit Du optimal von diesem Buch profitierst solltest Du bereits ein wenig Gitar
 
 ### Slides
 
+![Slides](images/technique/slides.png "Slides")
+
 ### Bending
 
 ### Tapping
