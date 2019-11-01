@@ -6,7 +6,7 @@ Wann hast du das letzte Mal Brüste gesehen? Und damit meinen wir nicht die Brü
 \pagebreak
 
 ## Voraussetzungen 
-Damit Du optimal von diesem Buch profitierst solltest Du bereits ein wenig Gitarre spielen können.
+Damit Du optimal von diesem Buch profitierst, solltest Du bereits ein wenig Gitarre spielen können.
 
 ## Techniken
 
@@ -24,7 +24,7 @@ Damit Du optimal von diesem Buch profitierst solltest Du bereits ein wenig Gitar
 
 ## Woche 1 - Evil Lynn
 
-Weiter geht's in der Rubrik "Solo der Woche" mit dem Solo zum neuen Excess Pressure Titel "Evil Lynn":
+Unser erstes Solo stammt aus dem Excess Pressure Titel "Evil Lynn":
 
 ### Riff
 
