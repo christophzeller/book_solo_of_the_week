@@ -130,12 +130,17 @@ spielen quasi die Melodie.
 Da mir das so gut gefällt, wiederholen wir das Muster nochmal mit dem E-Dur-Dreiklang, spiele aber ein leicht 
 verändertes Melodie-Tapping und lande ganz geschmackssicher in Takt 18 mit dem C# im Grundton von C#-Moll. Voilá!
 
+\pagebreak
+
 ## Woche 3 - Brand New Start
+
+![Akkorde](images/brand_new_start/brand_new_start_chords.png "Akkorde") 
 
 Gut Ding will Weile haben und jetzt isses mal wieder soweit: Ein Solo der Woche - frisch eingetroffen. 
 Wie ihr sicherlich schon wisst, geht's hier immer mit Reinhören los. Also, bitte:
 
 Die Akkorde deuten auf ein ausgeprägtes H-Moll hin.
+
 ### Takte 1 bis 4
 
 ![Takte 1 bis 4](images/brand_new_start/brand_new_start_takte_1_bis_4.png "Takte 1 bis 4") 
@@ -175,7 +180,71 @@ Cool.
 Der Abschlusslauf erfordert schon etwas Kondition, also langsam üben. Stilsicher landen wir natürlich im Grundton H. 
 Voilà! Viel Spaß beim Üben.
 
+\pagebreak
+
 ## Woche 4 - Satchurday Evening
+
+Die Rhythmusgitarre spielt folgende Akkorde:
+
+![Takte 9 bis 12](images/satchurday_evening/satchurday_evening_chords.png "Takte 13 bis 16") 
+
+Hm, welche Tonart könnte das sein? Wenn wir nur die ersten sechs Akkorde anschauen, haben wir ein ausgeprägtes H-Dur.
+
+Mit dem G#-Dur und dem D#-Dur verlassen wir kurz mal H-Dur. Da aber nur zwei Töne, nämlich die Terzen, anders 
+sind als bei G#-Moll und D#-Moll, macht das erstmal nix. Die Akkordfolge wird insgesamt 3 mal gespielt, 
+ich habe also drei Runden Zeit mich auszutoben.
+
+### Takte 1 bis 5
+
+![Takte 1 bis 5](images/satchurday_evening/satchurday_evening_takte_1_bis_5.png "Takte 13 bis 16") 
+
+Erstmal vorweg: Die Taktart ist nicht wie bisher 4/4 sondern 12/8. Das nennt man auch Rockballade. 
+Ihr könnt euch das aber auch wie einen normalen 4/4 vorstellen, nur dass die Achtel jetzt alle triolisch gespielt werden. 
+Klaro?
+
+Dann: Ohne Motiv geht nix! Nach einem Auftakt (ihr wisst, dass ich nicht ohne kann) spiele ich ein Motiv mit den 
+Zieltönen H (12. Bund h-Saite) und F# (11. Bund g-Saite). Läuft.
+
+Jetzt schaue ich, dass ich geschmeidig ins G#-Moll komme, dafür nehme ich die Quinte D# auf der 1 ins Takt 3; 
+auch aufm E-Dur passt die Quinte H gut.
+
+Ja, und weil mir das so gut gefällt, auch die Quinte C# von F#-Dur in Takt 4, dazu noch ein bisschen Quarte (H) und 
+große Terz A#. Quinte G# für C#-Moll. Fasst schon langweilig von den Tönen her, aber der Rhythmus und die Phrasierung 
+machen den Unterschied, alles leicht synkopiert, ihr wisst schon.
+
+### Takte 6 bis 9
+
+![Takte 1 bis 5](images/satchurday_evening/satchurday_evening_6_bis_9.png "Takte 13 bis 16") 
+
+
+In der zweiten Runde musste ich jetzt mal was losmachen. Ich wiederhole mein Motiv, ziehe aber rhythmisch etwas an. 
+Z.B. spiele ich nicht nur das F# auf Zählzeit drei in Takt 6, sondern ein volles Arpeggio in Grundstellung, 
+schön reingesweept, einmal rauf und wieder runter.
+
+Mit dem D# verfahre ich genauso, schön legato von oben rein. Hier seht ihr auch schon, dass man Rhythmus manchmal 
+einfach nachfühlen muss. Ich war ganz schön erstaunt, als ich beim Notieren gesehen habe, dass ich da ne Septole 
+runtergezockt habe. Fett! Der Rest vom Takt unspektakulär.
+
+Dann mit ein ein paar fluffigen Bendings und Doublestops das Motiv im achten Takt garniert. 
+Im neunten Takt packe ich dann nochmal das Tremolopicking aus.
+
+### Takte 10 bis 14
+
+![Takte 1 bis 5](images/satchurday_evening/satchurday_evening_10_bis_14.png "Takte 13 bis 16") 
+
+Ok, jetzt Endspurt, Zielgerade, nochmal alles geben! Motiv diesmal eine Quinte höher wiederholt, darum landen wir 
+jetzt auch auf dem Grundton C# mit einem cremigen Tremolo-HammerOn-PullOff-Dingsbums. 
+Auch hier wieder absolut funky, dass zu notieren...
+
+Dann Terz H von G#-Moll und Terz G# von E-Dur.
+
+Puh, der Lauf in Takt 12 ist mal total gegen den Grundrhythmus des 12/8-Taktes, da ich aber wieder sicher im C# lande, 
+kein Problem. Go crazy - sometimes!
+
+Bendings tun immer gut, müssen aber exakt ausgeführt werden, by the way. Im letzten Takt bende ich schön in die 
+Quinte D# von G#-Dur, dann zum Abschluss noch ein schönes D#-Dur-Arpeggio mit geschmackvoller Landung im D#, 
+das quasi schon die Quinte vom drauf folgendem H-Dur vorwegnimmt.
+
 
 ## Woche 5 - Creepy Changes
 
