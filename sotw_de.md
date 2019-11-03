@@ -10,6 +10,9 @@
 Wann hast du das letzte Mal Brüste gesehen? Und damit meinen wir nicht die Brüste deiner Mutter oder gar deine eigenen!
 Merkst du was? Es könnte damit zu tun haben, dass Du deine Gitarre nicht gut genug beherrscht, um bei den Damen zu punkten!
 
+Aber: Rettung ist in Sicht! Wir werden dich in den kommenden 52 Wochen zu dem Schlüpferstürmer schlechthin ausbilden.
+
+
 \pagebreak
 
 ## Voraussetzungen 
@@ -128,6 +131,49 @@ Da mir das so gut gefällt, wiederholen wir das Muster nochmal mit dem E-Dur-Dre
 verändertes Melodie-Tapping und lande ganz geschmackssicher in Takt 18 mit dem C# im Grundton von C#-Moll. Voilá!
 
 ## Woche 3 - Brand New Start
+
+Gut Ding will Weile haben und jetzt isses mal wieder soweit: Ein Solo der Woche - frisch eingetroffen. 
+Wie ihr sicherlich schon wisst, geht's hier immer mit Reinhören los. Also, bitte:
+
+Die Akkorde deuten auf ein ausgeprägtes H-Moll hin.
+### Takte 1 bis 4
+
+![Takte 1 bis 4](images/brand_new_start/brand_new_start_takte_1_bis_4.png "Takte 1 bis 4") 
+
+
+Auftakt ist der Schlüssel zum Glück! Dann folgen ein Haufen Arpeggios, H-Moll, A-Dur, nochmal H (H5) ein D-Dur und
+wieder ein H-Moll. Den Ton A# spiele ich, um den Charakter von H harmonisch Moll herauszuarbeiten. 
+Ich mache damit F#5 zu einem F#-Dur, da A# die große Terz von F#-Dur ist.
+
+### Takte 5 bis 8
+
+![Takte 5 bis 8](images/brand_new_start/brand_new_start_takte_5_bis_8.png "Takte 5 bis 8") 
+
+Ein gutes Motiv darf man ruhig wiederholen. Der Abschluss ist diesmal jedoch ein H, also die große Terz von G-Dur.
+
+### Takte 9 bis 12
+
+![Takte 9 bis 12](images/brand_new_start/brand_new_start_takte_9_bis_12.png "Takte 9 bis 12") 
+
+Weiter geht es mit einem H-Moll-Arpeggio, bei dem ich in die Quinte F# vom E aus bende. In Takt 10 kommt ein 
+F#-Moll-Arpeggio, dass dem E5 noch die Optionen F# (große None), A (Quarte) und C# (große Sexte) hinzufügt und 
+im A (Quinte von D) landet.
+
+Takt 11 bietet nochmal ein H-Moll-Arpeggio eine Oktave höher, Takt 12 bringt ein G-Dur-Arpeggio mit Landung im A#.
+
+### Takte 13 bis 16
+
+![Takte 9 bis 12](images/brand_new_start/brand_new_start_takte_13_bis_16.png "Takte 13 bis 16") 
+
+Finale: Läufe aus H-Moll, aber immer die Zieltöne im Auge behalten. In Takt 13 sind das einmal F# (Quinte von H) 
+und E (Quinte von A).
+
+In Takt 14 das H (Terz von G) und das F#. Das Arpeggio auf der 3 in Takt 14 soll exotisch klingen, indem es dem F# 
+noch die Töne D und D# (kleine und große Sexte), A und A# (kleine und große Terz) sowie das G (kleine None hinzufügt). 
+Cool.
+
+Der Abschlusslauf erfordert schon etwas Kondition, also langsam üben. Stilsicher landen wir natürlich im Grundton H. 
+Voilà! Viel Spaß beim Üben.
 
 ## Woche 4 - Satchurday Evening
 
