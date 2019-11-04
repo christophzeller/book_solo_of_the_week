@@ -304,7 +304,36 @@ Grundton und dann mit G# und D# den G#-Dur angedeutet.
 Den Abschluß bildet dann ein gestaffeltes Bending von E# (große Sexte), über die kleine Septime (F#) zum G#. 
 Ihr bendet erst mal einen Halbton und dann darauf noch einen Ganzton. Bam!
 
+\pagebreak
+
 ## Woche 6 - On My Way
+
+
+Die Rhythmus-Gitarre spielt folgende Akkorde:
+
+![Akkorde](images/on_my_way/on_my_way_solo_akkordfolge.png "Akkorde") 
+
+Die Tonart ist E-Moll. Auf zum Atom!
+
+### Takte 1 bis 4
+
+![Takte 1 bis 4](images/on_my_way/on_my_way_takte_1_bis_4.png "Takte 1 bis 4") 
+
+Was passiert hier? Wir spielen zu den einzelnen Akkorden das passende Arpeggio: über E5 spielen wir ein E-Moll-Arpeggio, 
+über C5 ein C-Dur-Arpeggio, D-Dur über D5 und H-Dur über H5. Da wir H-Dur bringen, kommt das D# dazu, 
+was eigentlich nicht in E-Moll ist. Dadurch entsteht - wer ahnt es? - E harmonisch Moll. Nice!
+
+Die Technik, die wir einsetzen heißt Sweep-Picking, dazu demnächst mal einen ausführlichen Artikel. 
+Wir spielen Gruppen von 6 Noten was mit normalen Sechzehntelnoten gespielt, eine schöne Akzentverschiebung gibt. 
+Stichwort: Accent Shifting!
+
+### Takte 5 bis 8
+
+![Takte 5 bis 8](images/on_my_way/on_my_way_takte_5_bis_8.png "Takte 5 bis 8") 
+
+Da Musiker immer faul sind, wiederhole auch ich einfach die Arpeggios aus Takt 1 und 2. In Takt 3 bringe ich dann ein 
+G-Dur-Arpeggio. Den Abschluss bildet wieder ein Arpeggio in H-Dur, allerdings lande ich diesmal auf der Quinte F#. 
+Schon sind wir fertig und können uns wieder an die Sonne raus hocken!
 
 ## Woche 7 - Jamtrack E-Dur
 
