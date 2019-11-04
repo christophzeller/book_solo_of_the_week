@@ -184,6 +184,9 @@ Voilà! Viel Spaß beim Üben.
 
 ## Woche 4 - Satchurday Evening
 
+Das folgende Solo ist von Joe "Satch" Satriani inspiriert. Wenn ihr Satriani ein bißchen kennt, wisst ihr, dass er äußerst 
+singbare Melodien erfindet und seine Haupttechnik das Legato-Spiel ist.
+
 Die Rhythmusgitarre spielt folgende Akkorde:
 
 ![Takte 9 bis 12](images/satchurday_evening/satchurday_evening_chords.png "Takte 13 bis 16") 
@@ -245,8 +248,61 @@ Bendings tun immer gut, müssen aber exakt ausgeführt werden, by the way. Im le
 Quinte D# von G#-Dur, dann zum Abschluss noch ein schönes D#-Dur-Arpeggio mit geschmackvoller Landung im D#, 
 das quasi schon die Quinte vom drauf folgendem H-Dur vorwegnimmt.
 
+\pagebreak
 
 ## Woche 5 - Creepy Changes
+
+Die Rhythmusgitarre spielt folgende Akkorde:
+
+![Akkorde](images/creepy_changes/creepy_changes_chords.png "Akkorde") 
+
+Man sieht hier gut, warum das Teil Creepy changes heißt, weil hier von einem Akkord sowohl der Dur als auch 
+der Moll-Dreiklang erklingt. Das ist in einem diatonsichem Umfeld normalerweise nicht zulässig.
+
+### Takte 1 bis 5
+
+![Takte 1 bis 5](images/creepy_changes/creepy_changes_takte_1_bis_5.png "Takte 1 bis 5") 
+
+Auftaktig geht es los, das sollte mittlerweile ein alter Hut sein, aber funktioniert immer. Mein Motiv ist synkopiert, 
+um es interesanter zu machen, da ich ja im ersten Takt lediglich die Akkordtöne von Fis-dur (F#, A# und C#) spiele.
+
+Im zweiten Takt umspiele ich das C# (Grundton von C#-Dur) mit der großen None D#, halte aber den Ball eher flach.
+
+In Takt 3 müssen wir etwas aufpassen, da jetzt der Basisakkord C#-Moll ist und wir deshalb vom D# nur einen 
+Halbton bis zum E benden (Terz von C#-Moll). Stilsicher landen wir auf dem Grundton von H-Dur.
+
+### Takte 6 bis 9
+
+![Takte 1 bis 5](images/creepy_changes/creepy_changes_takte_6_bis_9.png "Takte 1 bis 5") 
+
+Unser Motiv ist noch nicht fertig, der zweite Teil ist relativ simpel: Wir umspielen noch etwas den Grundton von H-Moll, 
+gehen dann auf A# (Terz von F#-Dur) und dann auf das G#. Das D# ist die Quinte G#-Dur und mit einem lässigen 
+Bending geht es wieder ins G#, um quasi die Quinte von C#-Dur vorwegzunehmen.
+
+### Takte 10 bis 11
+
+![Takte 1 bis 5](images/creepy_changes/creepy_changes_takte_10_bis_11.png "Takte 1 bis 5") 
+
+Wie wir schon öfter gesehen haben, ist es sinnvoll, das Motiv beim zweiten Durchgang eine Oktave höher zu wiederholen. 
+In Takt 11 haben wir dann einen schönen Triller, den ich recht frei improvisiert habe, deshalb die komische Notation 
+mit 11 "Sechzehntel" über 2 Viertel, fühlte sich einfach passend an.
+
+### Takte 12 bis 13
+
+![Takte 1 bis 5](images/creepy_changes/creepy_changes_takte_12_bis_13.png "Takte 1 bis 5") 
+
+Das Motiv aus Takt 4 wiederholt, allerdings den Abschluss gleich mal ne Oktave höher, 
+um noch etwas mehr Spannung reinzubringen.
+
+### Takte 14 bis 17
+
+![Takte 1 bis 5](images/creepy_changes/creepy_changes_takte_14_bis_17.png "Takte 1 bis 5") 
+
+Finale, oh ho! H-Moll umspielt mit H, C# und F# (Grundton, None, Quinte), F#-Dur mit Terz (A#), Quarte (H) und 
+Grundton und dann mit G# und D# den G#-Dur angedeutet.
+
+Den Abschluß bildet dann ein gestaffeltes Bending von E# (große Sexte), über die kleine Septime (F#) zum G#. 
+Ihr bendet erst mal einen Halbton und dann darauf noch einen Ganzton. Bam!
 
 ## Woche 6 - On My Way
 
