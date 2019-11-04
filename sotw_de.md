@@ -335,7 +335,59 @@ Da Musiker immer faul sind, wiederhole auch ich einfach die Arpeggios aus Takt 1
 G-Dur-Arpeggio. Den Abschluss bildet wieder ein Arpeggio in H-Dur, allerdings lande ich diesmal auf der Quinte F#. 
 Schon sind wir fertig und können uns wieder an die Sonne raus hocken!
 
+\pagebreak
+
 ## Woche 7 - Jamtrack E-Dur
+
+Herzlisch Willkommen zu einer neuen Ausgabe von "Solo der Woche". Ich habe da schonmal etwas vorbereitet:
+Wie der Titel schon sagt, handelt es sich um die Tonart E-Dur; die Rhythmus-Gitarre spielt folgende Akkorde:
+
+![Takte 5 bis 8](images/jamtrack_e_dur/jamtrack_e_dur_akkorde.png "Takte 5 bis 8") 
+
+### Takte 1 bis 6
+
+![Takte 5 bis 8](images/jamtrack_e_dur/jamtrack_e_dur_takte_1_bis_6.png "Takte 5 bis 8") 
+
+"Auftakt" ist mein zweiter Vorname! Wenn ihr schon beginnt, wenn noch keiner spielt, habt ihr alles richtig gemacht in 
+punkto "Aufmerksamkeit auf euch ziehen"!
+
+Los geht es mit einem kleinen Open-String-Lick mit den Tönen E und H (Grundton und Quinte von E-Dur), 
+dann wieder eine String-Skipping-Idee mit Abschluss im C#, der vorgezogene Grundton des nächsten Akkords.
+
+In Takt 5 und 6 spielen wir den Akkord C#-Moll auch komplett aus: Terz E am 9. Bund auf der G-Saite, dann Quinte G#, 
+nochmal Terz und zum Schluss den Grundton C#. Wie ihr sicher seht, alles gegen den Takt, also synkopiert.
+
+### Takte 7 bis 10
+
+![Takte 5 bis 8](images/jamtrack_e_dur/jamtrack_e_dur_takte_7_bis_10.png "Takte 5 bis 8") 
+
+Auf was man beim jammen nicht alles kommt: Ein C#-Moll-Arpeggio über G#-Moll. Warum funktioniert das?
+
+Ganz einfach: C#-Moll besteht aus C# - E - G#. C# ist die Quarte von G#, G# ist der Grundton und das E lösen wir 
+auch recht schnell in D# (Quinte von G#-Moll) auf. Der Sound der dabei entsteht hat was Interessante, 
+ihr hört eigentlich einen G#-Moll 6  / 11 Akkord.
+
+
+### Takte 11 bis 13
+
+![Takte 5 bis 8](images/jamtrack_e_dur/jamtrack_e_dur_takte_11_bis_13.png "Takte 5 bis 8") 
+
+Im Westen nix Neues: wir wiederholen einfach unser Lick aus Takt 2 und 3, allerdings wiederholen wir das 
+String-Skipping-Ding eine Oktave höher.
+
+### Takte 14 bis 19
+
+![Takte 5 bis 8](images/jamtrack_e_dur/jamtrack_e_dur_takte_14_bis_19.png "Takte 5 bis 8") 
+
+Jetzt fliegt die Kuh: wir spielen ein Legato-Lick mit 32teln! Ein bißchen von Satriani inspiriert. 
+Dann spielen wir G#-Moll aus: vorgezogener Grundton, dann Quinte, dann Bending auf Grundton, Terz auf der E-Saite. 
+Release-Bend und Quinte. BAM!
+
+Diese Idee nutzen wir gleich aus, um auch die Akkorde A und H auszuspielen: Bend und Release, dann Terz und Grundton 
+von A. Bend und Release, dann Grundton von H und Oktave. Da ich mein Anfangslick so cool finde, 
+schließe ich damit auch das ganze Stück nochmal ab.
+
+Viel Spaß beim Üben!
 
 ## Woche 8 - Red Carpet Girl
 
