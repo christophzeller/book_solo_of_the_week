@@ -463,6 +463,91 @@ folglich ein Em7-Arpeggio (E-G-H-D).
 
 ## Woche 9 - Beyond The Veil
 
+Die Akkorde sind ausschließlich Powerchords. Grundton und Quinte. Die nehmen wir mal auseinander:
+
+![Takte 5 bis 8](images/beyond_the_veil/beyond_akkordfolge.png "Takte 5 bis 8") 
+
+#TODO Tabelle
+
+Zwei Vorzeichen deuten auf D-Dur bzw. H-Moll hin.
+
+### Takte 1 bis 5
+
+![Takte 5 bis 8](images/beyond_the_veil/beyond_solo_harm_takte_1_bis_5.png "Takte 5 bis 8") 
+
+Auftaktig geht es in die erste Runde. Wie ihr unlängst wisst, erzeugt ihr mit einem Auftakt immer mehr Aufmerksamkeit, 
+als wenn ihr erst auf der 1 des ersten Taktes anfangt. Word! Unser erstes Motiv besteht hauptsächlich aus Triolen. 
+Vierteltriolen sind prima, um auch bei hohem Tempo entspannt zu solieren und trotzdem ein interessantes Motiv zu bekommen.
+
+
+### Takte 6 bis 7
+
+![Takte 5 bis 8](images/beyond_the_veil/beyond_solo_takte_6_bis_7.png "Takte 5 bis 8") 
+
+Jetzt fliegt die Kuh! Dieses kleine Tappinglick besteht aus 6 Noten und wird 5 mal wiederholt. 
+Dadurch entsteht eine coole Akzentverschiebung.
+
+
+### Takte 8 bis 9
+
+![Takte 5 bis 8](images/beyond_the_veil/beyond_solo_takte_8_bis_9.png "Takte 5 bis 8") 
+
+Mit Accent Shifting geht es hier auch gleich weiter. Bei Zählzeit 3 in Takt 9 wartet ein Schmankerl auf uns. 
+Ein getapptes Bending. wie funktioniert das? Ihr tappt am 22. Bund und zieht dann sowohl mit dem Tappingfinger 
+als auch mit der Greifhand die Saite.
+
+
+### Takte 10 bis 13
+
+![Takte 5 bis 8](images/beyond_the_veil/beyond_solo_harm_takte_10_bis_13.png "Takte 5 bis 8") 
+
+Wir wiederholen das Motiv vom Anfang, jedoch eine Oktave höher. 
+In Takt 12 bringen noch ein Bending unter und spielen die Triole abwärts staccato, um etwas Abwechslung reinzubringen.
+
+
+### Takte 14 bis 17
+
+![Takte 5 bis 8](images/beyond_the_veil/beyond_solo_harm_takte_14_bis_17.png "Takte 5 bis 8") 
+
+Auch die Tapping-Idee wird wiederholt, allerdings ist der Abschluss etwas vereinfacht, 
+weil das Griffbrett leider schon zu Ende ist. Auch hier zum Schluss ein getapptes Bending.
+
+
+### Harmonisierung
+
+Auch für dieses Stück gibt es eine zweite Stimme im Solo. Here we go!
+
+
+### Takte 1 bis 5
+
+![Takte 5 bis 8](images/beyond_the_veil/beyond_solo_harm_takte_1_bis_5.png "Takte 5 bis 8") 
+
+Da sich die erste Stimme in der Tonhöhe ganz beträchtlich nach oben schraubt, packe ich mal besser ne Terz drunter. Passt.
+
+
+### Takte 6 bis 9
+
+![Takte 5 bis 8](images/beyond_the_veil/beyond_solo_harm_takte_6_bis_7.png "Takte 5 bis 8") 
+
+Beim Tapping-Teil war ich mir nicht so sicher, dass ne Terz passt, bzw. wollte ich das coole Tapping-Muster beibehalten 
+und bleibe deshalb eine Quinte unter der ersten Stimme.
+
+
+### Takte 10 bis 13
+
+![Takte 5 bis 8](images/beyond_the_veil/beyond_solo_harm_takte_10_bis_13.png "Takte 5 bis 8") 
+
+Terzen sind hier wieder die sichere Bank. Die zweite Stimme folgt der ersten eins zu eins.
+
+
+### Takte 14 bis 17
+
+![Takte 5 bis 8](images/beyond_the_veil/beyond_solo_harm_takte_14_bis_17.png "Takte 5 bis 8") 
+
+So, Quinte hatten wir schon. Was eignet sich noch zur eleganten Harmonisierung? 
+Jup, genau Quarten gehen auch! Hört mal in die alten Scorpions-Klassiker rein.
+
+
 \pagebreak
 
 ## Woche 10 - Dream
