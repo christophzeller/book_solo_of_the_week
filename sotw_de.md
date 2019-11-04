@@ -389,40 +389,144 @@ schließe ich damit auch das ganze Stück nochmal ab.
 
 Viel Spaß beim Üben!
 
+\pagebreak
+
 ## Woche 8 - Red Carpet Girl
+
+Die Begleitung besteht durchgängig aus abgewandelten Powerchords:
+
+![Takte 5 bis 8](images/red_carpet_girl/rcg_akkordfolge.png "Takte 5 bis 8") 
+
+Ich spiele erst den normalen Powerchord A5, dann A mit kleiner Sexte und schließlich A mit großer Sexte.
+
+### Takte 1 und 2
+
+![Takte 5 bis 8](images/red_carpet_girl/red_carpet_girl_takte_1_und_2.png "Takte 5 bis 8") 
+
+Im Gegensatz zu den letzten Soli fangen wir nicht gemütlich an, sondern steigen gleich mit ner krassen Tapping-Action ein. 
+Triolen mit den Tönen der A-Moll-Tonleiter.
+
+### Takte 3 und 4
+
+![Takte 5 bis 8](images/red_carpet_girl/red_carpet_girl_takte_3_und_4.png "Takte 5 bis 8") 
+
+Weiter geht es mit Tapping, doch wir steigern das Tempo indem wir statt Achtel-Triolen nun Sechzehntel spielen. 
+Interessant ist, dass wir in Takt 3 das F# dabeihaben.
+
+Wie passt das denn zu A-Moll?
+
+Ganz easy, Wir hatten ja schon Natürlich Moll (A H C D E F G) und Harmonisch Moll (A H C D E F G#). 
+Wenn wir das F zum F# machen, bekommen wir die Melodisch-Moll-Tonleiter 
+In Takt 4 gehen wir dann wieder zum Natürlich Moll zurück, da hier im Begleitakkord auch wieder das F erklingt.
+
+### Takte 5 und 6
+
+Ich wiederhole einfach die Takte 1 und 2. That's all :-)
+
+### Takte 7 und 8
+
+![Takte 5 bis 8](images/red_carpet_girl/red_carpet_girl_takte_7_und_8.png "Takte 5 bis 8") 
+
+Kommen wir nun zum Abschluss. Ein kleiner Lauf über C und D. Hier benutze ich Arpeggios in C-Dur und D-Dur. 
+Um genauer zu sein, ist das C-Dur Arpeggio ein Cmaj7-Arpeggio (C E G H)
+
+Ihr seht, es ist also extrem wichtig, dass ihr darauf achtet, was die Rhythmus-Fraktion an Akkorden so anbietet!
+
+
+### Harmonisieren
+
+Auch bei diesem Solo gibt es eine zweite Lead-Stimme.
+
+
+### Takte 1 und 2
+
+![Takte 5 bis 8](images/red_carpet_girl/red_carpet_girl_takte_1_und_2_harm.png "Takte 5 bis 8") 
+
+Die erste Triole bzw. die getappten Töne sind in Quarten (D-G, E-A, A-D) harmonisiert, danach folgen diatonische Terzen (C-E, H-D, A-C)
+
+### Takte 3 und 4
+
+![Takte 5 bis 8](images/red_carpet_girl/red_carpet_girl_takte_3_und_4_harm.png "Takte 5 bis 8") 
+
+Auch hier geht es mit Terzen weiter, wobei wir darauf achten müssen, dass wir in Takt 3 A Dorisch (A-H-C-D-E-F#-G) 
+und in Takt 4 A natürlich Moll (A-H-C-D-E-F-G) haben
+
+
+### Takte 7 und 8
+
+![Takte 5 bis 8](images/red_carpet_girl/red_carpet_girl_takte_7_und_8_harm.png "Takte 5 bis 8") 
+
+Das Abschluss-Arpeggio der zweiten Stimme ist in diesem Fall auch eine Terz höher und ist 
+folglich ein Em7-Arpeggio (E-G-H-D).
+
+\pagebreak
 
 ## Woche 9 - Beyond The Veil
 
+\pagebreak
+
 ## Woche 10 - Dream
+
+\pagebreak
 
 ## Woche 11 - Into The Darkness
 
+\pagebreak
+
 ## Woche 12 - Blood Angel
+
+\pagebreak
 
 ## Woche 13 - Voices In My Head
 
+\pagebreak
+
 ## Woche 14 - Joe Would Be Proud
+
+\pagebreak
 
 ## Woche 15 - Crapping On Your Thrown
 
+\pagebreak
+
 ## Woche 16 - Danish Spring
+
+\pagebreak
 
 ## Woche 17 - Jamming In C
 
+\pagebreak
+
 ## Woche 18 - Clown In The Mall
+
+\pagebreak
 
 ## Woche 19 - Legion
 
+\pagebreak
+
 ## Woche 20 - Letter Of Stallone
+
+\pagebreak
 
 ## Woche 21 - My Life
 
+\pagebreak
+
 ## Woche 22 - Frost Inside Your Lace
+
+\pagebreak
 
 ## Woche 23 - Hangover
 
+\pagebreak
+
 ## Woche 24 - Unbreakable
 
+\pagebreak
+
 ## Woche 25 - Jamtrack Challenge
+
+\pagebreak
 
 ## Woche 26 - Stormbringer
