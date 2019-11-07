@@ -567,7 +567,7 @@ Kommen wir zum Solo über diese Akkorde.
 
 Ich fange ganz gemütlich mit Quinte (F#) und Grundton von Hm an und lasse erstmal klingen. 
 Das kann man auch ruhig guten Gewissens machen, wenn der Ton zum Akkord passt wie in diesem Fall. 
-Dann geht es gemütlich weiter. Ich spiele ein G und ziehe es zum A hoch.</p>
+Dann geht es gemütlich weiter. Ich spiele ein G und ziehe es zum A hoch.
 A ist die große None zu G-Dur und zugleich schon die Terz vom nächsten Akkord F#m. Ich deute also schonmal an, 
 wohin die Reise geht. Spätestens mit dem C# (Quinte von F#m) auf Zählzeit 4 bin ich in F#m angekommen. Läuft!
 
@@ -575,8 +575,8 @@ wohin die Reise geht. Spätestens mit dem C# (Quinte von F#m) auf Zählzeit 4 bi
 
 ![Takte 5 bis 8](images/dream/dream_takte_5_bis_8.png "Takte 5 bis 8") 
 
-Mehr Dynamik bitte. Wie's geht?</p>
-In Takt 5 geht's nach oben (E-Saite 14. Bund), in Takt 7 bringe ich Achtelnoten, also rhythmisch dichter. Interessant ist, dass in Takt 7 ein D-Dur <span style="text-decoration: underline;"><a href="http://de.wikipedia.org/wiki/Arpeggio" target="_blank" rel="noopener noreferrer">Arpeggio</a></span> über G-Dur erklingt.
+Mehr Dynamik bitte. Wie's geht?
+In Takt 5 geht's nach oben (E-Saite 14. Bund), in Takt 7 bringe ich Achtelnoten, also rhythmisch dichter. Interessant ist, dass in Takt 7 ein D-Dur  über G-Dur erklingt.
 
 Warum funktioniert das?
 
@@ -636,6 +636,67 @@ Tremolopicking part
 \pagebreak
 
 ## Woche 11 - Into The Darkness
+
+### Takt 1
+
+![Akkorde](images/into_the_darkness/into_the_darkness_takt_1.png "Akkorde") 
+
+Nicht lang snacken, Kopp inn Nacken! Der erste Takt hat es schon in sich: Melodie-Tapping Deluxe. 
+Deshalb hier mal im einzelnen: Wir nehmen ein stinknormales E-Moll-Arpeggio (grün) in Grundstellung und tappen darüber die Melodie (rot).
+
+![Akkorde](images/into_the_darkness/into_the_darkness_takt_1_melody.png "Akkorde") 
+
+Falls euch das jetzt zu schnell geht, hier nochmal die Melodie einzeln:
+
+![Akkorde](images/into_the_darkness/into_the_darkness_takt_1_melody_separate.png "Akkorde") 
+
+Eine Besonderheit gibt es noch. Die letzte Note im Takt ist ein Fis anstatt von G. Das hat mechanische Gründe. 
+Das nächste Arpeggio in Takt 2 ist ein C-Dur-Arpeggio bei dem der 15. Bund getappt wird, deshalb muss ich da Platz machen.
+
+
+### Takte 2 bis 4
+
+![Akkorde](images/into_the_darkness/into_the_darkness_takte_2_bis_4.png "Akkorde") 
+
+Was soll ich groß sagen? Ich ziehe in Takt zwei und drei den gleichen Stiefel durch. 
+Die Arpeggios sind C-Dur und H-Moll. In Takt vier beende ich die Phrase mit einem entspannten Viertel-Triolen-Lauf.
+
+
+### Takte 5 bis 8
+
+![Akkorde](images/into_the_darkness/into_the_darkness_takte_7_bis_8.png "Akkorde") 
+
+So ein cooles Thema muss ich einfach wiederholen. Deshalb auch nix neues in Takt 5 bis 7. 
+Der Triolenlauf in Takt 8 hat ein paar andere Töne, but that's it.
+
+
+### Takte 9 bis 12
+
+![Akkorde](images/into_the_darkness/into_the_darkness_takte_9_bis_12.png "Akkorde") 
+
+Jetzt wird es wieder etwas spannender. Die folgenden Takte könnte man als "call and response" zusammenfassen. 
+In Takt 9 rufe ich (call) und antworte in Takt 10 eine Oktave höher (response) mit einem ähnlichen Motiv. 
+Das wiederhole ich in Takt 11 und schließe mit einer leicht veränderten Phrase in Takt 12 ab.
+
+### Takte 13 bis 16
+
+![Akkorde](images/into_the_darkness/into_the_darkness_takte_13_bis_16.png "Akkorde") 
+
+Der letzte Teil ist jetzt nix für Introvertierte: hier müsst ihr mal aus euch rausgehen, wie Attila Dorn von Powerwolf agen würde. 
+Ein kleiner Shredding Part in E-Moll. Das Interessante daran ist, dass wir den Lauf durch Gruppierungen von 
+jeweils 6 Noten etwas auflockern. Das führt zu Akzentverschiebungen und ist gut gegen die Tonleiter-Langeweile.
+Da unser Grundtempo mit knapp 160 BPM schon recht sportlich ist, brauchen wir für diesen Part eine solide Pickingtechnik. 
+Ich habe hier versucht mit Economy Picking zu arbeiten. Economy Picking ist eine Mischung aus Alternate und Sweep Picking. 
+Ihr pickt erstmal Alternate, behaltet aber bei einem Saitenwechsel die Anschlagsrichtung bei, wenn die Richtung des 
+Saitenwechsels gleich der Pickingrichtung vor dem Wechsel ist. Hier mal der direkte Vergleich:
+
+
+Hier nochmal mit mit den Anschlagsrichtungen:
+
+![Akkorde](images/into_the_darkness/into_the_darkness_takte_13_bis_16_economy.png "Akkorde") 
+
+
+Viel Spaß beim Zocken!
 
 \pagebreak
 
