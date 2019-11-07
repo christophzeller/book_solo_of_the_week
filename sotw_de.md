@@ -552,6 +552,87 @@ Jup, genau Quarten gehen auch! Hört mal in die alten Scorpions-Klassiker rein.
 
 ## Woche 10 - Dream
 
+Solo der Woche ist diesmal das neue Solo eines überarbeiteten Excess Pressure Songs namens "Dream". 
+Ok, was passiert hier? Die Akkorde der Begleitung sind eigentlich recht trivial:
+
+![Akkorde](images/dream/dream_akkordfolge.png "Akkorde") 
+
+Drei Akkorde und gut. So muss das sein.
+Kommen wir zum Solo über diese Akkorde.
+
+### Takte 1 bis 4
+
+![Takte 1 bis 4](images/dream/dream_takte_1_bis_4.png "Takte 1 bis 4") 
+
+
+Ich fange ganz gemütlich mit Quinte (F#) und Grundton von Hm an und lasse erstmal klingen. 
+Das kann man auch ruhig guten Gewissens machen, wenn der Ton zum Akkord passt wie in diesem Fall. 
+Dann geht es gemütlich weiter. Ich spiele ein G und ziehe es zum A hoch.</p>
+A ist die große None zu G-Dur und zugleich schon die Terz vom nächsten Akkord F#m. Ich deute also schonmal an, 
+wohin die Reise geht. Spätestens mit dem C# (Quinte von F#m) auf Zählzeit 4 bin ich in F#m angekommen. Läuft!
+
+### Takte 5 bis 8
+
+![Takte 5 bis 8](images/dream/dream_takte_5_bis_8.png "Takte 5 bis 8") 
+
+Mehr Dynamik bitte. Wie's geht?</p>
+In Takt 5 geht's nach oben (E-Saite 14. Bund), in Takt 7 bringe ich Achtelnoten, also rhythmisch dichter. Interessant ist, dass in Takt 7 ein D-Dur <span style="text-decoration: underline;"><a href="http://de.wikipedia.org/wiki/Arpeggio" target="_blank" rel="noopener noreferrer">Arpeggio</a></span> über G-Dur erklingt.
+
+Warum funktioniert das?
+
+D-Dur besteht aus D-F#-A. D ist die Quinte von G und A die große None, wie oben erwähnt. 
+Das F# ist die große Septime zu G-Dur, klingt eigentlich nicht so prall. Ist in diesem Fall aber nicht so schlimm, 
+da F# auf der Zählzeit 1+ kommt und damit eine  Durchgangsnote ist.
+
+### Takte 9 bis 12
+
+![Takte 9 bis 12](images/dream/dream_takte_9_bis_12.png "Takte 9 bis 12") 
+
+Howdy! Wir ziehen die Schlinge enger: Mehr Achtel, String Skipping, Double Stops und Synkope. 
+Alles was ein Gitarren-Cowboy drauf haben sollte.
+
+### Takte 13 bis 16
+
+![Takte 13 bis 16](images/dream/dream_takte_13_bis_16.png "Takte 13 bis 16") 
+
+Rhythmisch noch dichter, indem wir die Triolen auspacken. Als Tonmaterial dient uns jetzt die H-Moll-Tonleiter. 
+Aber es gibt doch mehrere Molltonleitern, welche genau meinst du? Richtig, man unterscheidet zwischen: 
+Natürlich, harmonisch und melodisch Moll. Welche nehme ich jetzt? Kann mich nicht entscheiden, 
+ich schwanke zwischen natürlich und harmonisch. Die unterscheiden sich auch nur in einem Ton nämlich dem A bzw A#.
+Am Anfang des Triolenlaufs nehme ich A# (harmonisch Moll) um dann erstmal in Takt 14 wieder das A zu nehmen. 
+In Takt 15 nehme ich dann für den Double Stop wieder das A#.
+
+
+### Takte 17 bis 20
+
+![Takte 17 bis 20](images/dream/dream_takte_17_bis_20.png "Takte 17 bis 20") 
+
+Hell bend for leather! Bendings bis der Arzt kommt.
+
+
+### Takte 21 und 22
+
+![Takte 21 und 22](images/dream/dream_takte_21_bis_22.png "Takte 21 und 22") 
+
+Ein schönes Open String Lick bereitet uns auf das Finale vor.
+
+### Takte 23 bis 24
+
+![Takte 23 bis 24](images/dream/dream_takte_23_bis_24.png "Takte 23 bis 24") 
+
+Jetzt nur noch ein winziges Läufchen und ein geschmackvolles Bending auf unseren Zielton C#. Voilà!
+
+### Harmonisation - Takte 13 bis 16
+Für die Albumversion des Songs habe ich noch eine zweite Stimme in den Takten 13 bis 16 eingespielt. 
+Die will ich euch natürlich nicht vorenthalten:
+
+![Harmonisation - Takte 13 bis 16](images/dream/dream_harmonisation.png "Harmonisation - Takte 13 bis 16") 
+
+Einfach das Originalmotiv eine Terz höher gespielt. That's it!
+
+### Todo
+Tremolopicking part
+
 \pagebreak
 
 ## Woche 11 - Into The Darkness
