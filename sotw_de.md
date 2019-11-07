@@ -7,11 +7,16 @@
 \pagebreak
 
 ## Einleitung
-Wann hast du das letzte Mal Brüste gesehen? Und damit meinen wir nicht die Brüste deiner Mutter oder gar deine eigenen!
-Merkst du was? Es könnte damit zu tun haben, dass Du deine Gitarre nicht gut genug beherrscht, um bei den Damen zu punkten!
+Oh nein, noch ein Gitarrenbuch! Lasst mich in Ruhe, ich muss doch noch die Grifftabelle mit den 1500 wichtigsten 
+akkorden auswendig lernen und die Bücher von Peter Bursch habe ich auch noch nicht alle gelesen. Was wollt ihr denn jetzt noch von mir?
 
-Aber: Rettung ist in Sicht! Wir werden dich in den kommenden 52 Wochen zu dem Schlüpferstürmer schlechthin ausbilden.
+Tja, gute Frage, warum haben wir dieses Buch geschrieben und wollen dass Du es auch liest?
 
+1. Ein Buch gegen das sinnlose gegniedel von Pentatonik-Skalen
+Wir wollen dir zeigen, dass es auch ein Leben nach der A-Moll-Pentatonik am 5. Bund geben kann, in dem Du verstehen lernst wann Du welchen Noten speilen solltest
+
+2. Hilfe zur Selbsthilfe
+Wir zeigen dir Techniken / Regeln, die dir helfen sollen eigene Soli zu entwickeln
 
 \pagebreak
 
