@@ -785,6 +785,60 @@ bevor es mit entspannten Achteltriolen in den Zielton E geht (Bending vom 22. Bu
 
 ## Woche 16 - Voices In My Head
 
+### Tonart
+
+
+Da die Rhythmusgitarre nur einzelne Töne pickt, müssen wir die kurz sammeln: Auf der D-Saite D E F G A C
+Die Töne könnten aus C-Dur oder F-Dur stammen, je nachdem, ob wir B oder H hinzufügen.
+Auf der G-Saite G A B C D F
+Diese Töne stammen entweder aus F-Dur oder B-Dur, abhängig davon, ob wir E oder Eb ergänzen.
+
+Mit 6 aus 7 können wir noch keinen Tonarten-Jackpot gewinnen, wir müssen uns für eine Tonart entscheiden. 
+Für den ersten Teil nehme ich C-Dur, bringe also noch das H ins Spiel, für den zweiten Teil ab Takt 9, 
+nehme ich F-Dur und spiele das E. Da jedoch D und G jeweils das tonale Zentrum sind, können wir auch nassforsch behaupten, 
+wir spielen nicht C-Dur sonder D-Dorisch, bzw. nicht F-Dur sondern G-Dorisch. Aber das wäre ja fast Angeberei.
+
+
+### Takte 1 bis 4
+
+Mit einer kleinen Tapping-Action geht es in den ersten Teil des Solos.
+
+![Takte 1 und 2](images/voices_in_my_head/voices_tapping_version_takte_1_und_2.png "Takte 1 und 2") 
+
+Accent Shifting heißt hier das Zauberwort, weil wir Dreiergruppen auf gerade Sechzehntel spielen. 
+Die Betonung verschiebt sich damit immer weiter nach hinten, bis wir nach fünf Wiederholungen wieder auf einer schweren Zählzeit landen.
+
+Die Takte 3 bis 8 sind ähnlich aufgebaut.
+
+TODO
+
+### Takte 9 und 10
+
+![Takte 1 und 2](images/voices_in_my_head/voices_tapping_version_takte_9_und_10.png "Takte 1 und 2") 
+
+Hier geht es mit einem kleinen Lick über zwei Saiten in den zweiten Teil des Solos.
+
+
+### Takte 11 und 12
+
+![Takte 1 und 2](images/voices_in_my_head/voices_tapping_version_takte_11_und_12.png "Takte 12 und 12") 
+
+Spannung steigern mit Sechzehnteln.
+
+
+### Takte 13 und 14
+
+![Takte 1 und 2](images/voices_in_my_head/voices_tapping_version_takte_13_und_14.png "Takte 13 und 14") 
+
+Diese Takte sind einfach eine Wiederholung von Takt 9 und 10; allerdings müssen wir vom letzten Ton in den ersten Ton von Takt 15 sliden.
+
+
+### Takte 15 und 16
+
+![Takte 1 und 2](images/voices_in_my_head/voices_tapping_version_takte_15_und_16.png "Takte 13 und 14") 
+
+String Skipping at its best. Mit kleinen Slides aufgepeppt, landen wir stilsicher in unserem Zielton, dem D.
+
 \pagebreak
 
 ## Woche 17 - Joe Would Be Proud
