@@ -10,13 +10,18 @@
 Oh nein, noch ein Gitarrenbuch! Lasst mich in Ruhe, ich muss doch noch die Grifftabelle mit den 1500 wichtigsten 
 akkorden auswendig lernen und die Bücher von Peter Bursch habe ich auch noch nicht alle gelesen. Was wollt ihr denn jetzt noch von mir?
 
-Tja, gute Frage, warum haben wir dieses Buch geschrieben und wollen dass Du es auch liest?
+Tja, gute Frage, warum haben wir dieses Buch geschrieben und wollen, dass Du es auch liest?
 
-1. Ein Buch gegen das sinnlose gegniedel von Pentatonik-Skalen
-Wir wollen dir zeigen, dass es auch ein Leben nach der A-Moll-Pentatonik am 5. Bund geben kann, in dem Du verstehen lernst wann Du welchen Noten speilen solltest
+1. Ein Buch gegen das sinnlose Gegniedel von Pentatonik-Skalen
+Wir wollen dir zeigen, dass es auch ein Leben nach der A-Moll-Pentatonik am 5. Bund geben kann, 
+in dem Du verstehen lernst wann Du welchen Noten speilen solltest
 
 2. Hilfe zur Selbsthilfe
 Wir zeigen dir Techniken / Regeln, die dir helfen sollen eigene Soli zu entwickeln
+
+### Was ist dieses Buch nicht?
+
+Wir zeiegen Dir nur von uns selbst geschriebene Sachen, das tausendste "So spielst Du thunderstruck von AC/DC" findest Du hier nicht!
 
 \pagebreak
 
@@ -25,6 +30,7 @@ Damit Du optimal von diesem Buch profitierst, solltest Du bereits ein wenig Gita
 
 ## Techniken
 
+Hier als kleiner Refresher die Techniken, die Du bereits beherrschen
 ### Slides
 
 ![Slides](images/technique/slides.png "Slides")
@@ -34,6 +40,8 @@ Damit Du optimal von diesem Buch profitierst, solltest Du bereits ein wenig Gita
 ### Tapping
 
 ### Sweeping
+
+### Economy Picking
 
 \pagebreak
 
@@ -86,7 +94,11 @@ Mit dem kleinen Umweg über Cis landen wir dann im Zielton D und fertisch! Viel 
 
 \pagebreak
 
-## Woche 2 - Cream Cheese
+## Woche 2 - Evil Lynn Harmonisierung
+
+\pagebreak
+
+## Woche 3 - Cream Cheese
 
 ### Tonart
 
@@ -137,7 +149,7 @@ verändertes Melodie-Tapping und lande ganz geschmackssicher in Takt 18 mit dem 
 
 \pagebreak
 
-## Woche 3 - Brand New Start
+## Woche 4 - Brand New Start
 
 ![Akkorde](images/brand_new_start/brand_new_start_chords.png "Akkorde") 
 
@@ -187,7 +199,7 @@ Voilà! Viel Spaß beim Üben.
 
 \pagebreak
 
-## Woche 4 - Satchurday Evening
+## Woche 5 - Satchurday Evening
 
 Das folgende Solo ist von Joe "Satch" Satriani inspiriert. Wenn ihr Satriani ein bißchen kennt, wisst ihr, dass er äußerst 
 singbare Melodien erfindet und seine Haupttechnik das Legato-Spiel ist.
@@ -255,7 +267,7 @@ das quasi schon die Quinte vom drauf folgendem H-Dur vorwegnimmt.
 
 \pagebreak
 
-## Woche 5 - Creepy Changes
+## Woche 6 - Creepy Changes
 
 Die Rhythmusgitarre spielt folgende Akkorde:
 
@@ -311,7 +323,7 @@ Ihr bendet erst mal einen Halbton und dann darauf noch einen Ganzton. Bam!
 
 \pagebreak
 
-## Woche 6 - On My Way
+## Woche 7 - On My Way
 
 
 Die Rhythmus-Gitarre spielt folgende Akkorde:
@@ -342,7 +354,8 @@ Schon sind wir fertig und können uns wieder an die Sonne raus hocken!
 
 \pagebreak
 
-## Woche 7 - Jamtrack E-Dur
+
+## Woche 8 - Jamtrack E-Dur
 
 Herzlisch Willkommen zu einer neuen Ausgabe von "Solo der Woche". Ich habe da schonmal etwas vorbereitet:
 Wie der Titel schon sagt, handelt es sich um die Tonart E-Dur; die Rhythmus-Gitarre spielt folgende Akkorde:
@@ -396,7 +409,7 @@ Viel Spaß beim Üben!
 
 \pagebreak
 
-## Woche 8 - Red Carpet Girl
+## Woche 9 - Red Carpet Girl
 
 Die Begleitung besteht durchgängig aus abgewandelten Powerchords:
 
@@ -438,7 +451,9 @@ Um genauer zu sein, ist das C-Dur Arpeggio ein Cmaj7-Arpeggio (C E G H)
 Ihr seht, es ist also extrem wichtig, dass ihr darauf achtet, was die Rhythmus-Fraktion an Akkorden so anbietet!
 
 
-### Harmonisieren
+\pagebreak
+
+## Woche 10 - Red Carpet Girl
 
 Auch bei diesem Solo gibt es eine zweite Lead-Stimme.
 
@@ -466,7 +481,7 @@ folglich ein Em7-Arpeggio (E-G-H-D).
 
 \pagebreak
 
-## Woche 9 - Beyond The Veil
+## Woche 11 - Beyond The Veil
 
 Die Akkorde sind ausschließlich Powerchords. Grundton und Quinte. Die nehmen wir mal auseinander:
 
@@ -518,7 +533,9 @@ Auch die Tapping-Idee wird wiederholt, allerdings ist der Abschluss etwas verein
 weil das Griffbrett leider schon zu Ende ist. Auch hier zum Schluss ein getapptes Bending.
 
 
-### Harmonisierung
+\pagebreak
+
+## Woche 11 - Beyond The Veil Harmonisierung
 
 Auch für dieses Stück gibt es eine zweite Stimme im Solo. Here we go!
 
@@ -555,7 +572,7 @@ Jup, genau Quarten gehen auch! Hört mal in die alten Scorpions-Klassiker rein.
 
 \pagebreak
 
-## Woche 10 - Dream
+## Woche 12 - Dream
 
 Solo der Woche ist diesmal das neue Solo eines überarbeiteten Excess Pressure Songs namens "Dream". 
 Ok, was passiert hier? Die Akkorde der Begleitung sind eigentlich recht trivial:
@@ -627,7 +644,10 @@ Ein schönes Open String Lick bereitet uns auf das Finale vor.
 
 Jetzt nur noch ein winziges Läufchen und ein geschmackvolles Bending auf unseren Zielton C#. Voilà!
 
-### Harmonisation - Takte 13 bis 16
+\pagebreak
+
+## Woche 12 - Dream Harmonisierung
+
 Für die Albumversion des Songs habe ich noch eine zweite Stimme in den Takten 13 bis 16 eingespielt. 
 Die will ich euch natürlich nicht vorenthalten:
 
@@ -640,7 +660,7 @@ Tremolopicking part
 
 \pagebreak
 
-## Woche 11 - Into The Darkness
+## Woche 13 - Into The Darkness
 
 ### Takt 1
 
@@ -705,7 +725,7 @@ Viel Spaß beim Zocken!
 
 \pagebreak
 
-## Woche 12 - Blood Angel
+## Woche 14 - Blood Angel
 
 ### Tonart-Analyse
 
@@ -746,7 +766,7 @@ bevor es mit entspannten Achteltriolen in den Zielton E geht (Bending vom 22. Bu
 
 \pagebreak
 
-## Woche 13 - Blood Angel Harmonisierung
+## Woche 15 - Blood Angel Harmonisierung
 
 ![Takte 3 und 4](images/blood_angel/blood_angel_harmony_1_2.png "Takte 3 und 4") 
 
@@ -756,56 +776,72 @@ bevor es mit entspannten Achteltriolen in den Zielton E geht (Bending vom 22. Bu
 
 \pagebreak
 
-## Woche 13 - Voices In My Head
+## Woche 16 - Voices In My Head
 
 \pagebreak
 
-## Woche 14 - Joe Would Be Proud
+## Woche 17 - Joe Would Be Proud
 
 \pagebreak
 
-## Woche 15 - Crapping On Your Thrown
+## Woche 18 - Crapping On Your Thrown
 
 \pagebreak
 
-## Woche 16 - Danish Spring
+## Woche 19 - Danish Spring
 
 \pagebreak
 
-## Woche 17 - Jamming In C
+## Woche 20 - Jamming In C
 
 \pagebreak
 
-## Woche 18 - Clown In The Mall
+## Woche 21 - Clown In The Mall
 
 \pagebreak
 
-## Woche 19 - Legion
+## Woche 22 - Legion
 
 \pagebreak
 
-## Woche 20 - Letter Of Stallone
+## Woche 23 - Letter Of Stallone
 
 \pagebreak
 
-## Woche 21 - My Life
+## Woche 24 - My Life Erstes Solo
 
 \pagebreak
 
-## Woche 22 - Frost Inside Your Lace
+## Woche 25 - My Life Zweites Solo
 
 \pagebreak
 
-## Woche 23 - Hangover
+## Woche 26 - Frost Inside Your Lace
 
 \pagebreak
 
-## Woche 24 - Unbreakable
+## Woche 27 - Hangover
 
 \pagebreak
 
-## Woche 25 - Jamtrack Challenge
+## Woche 28 - Unbreakable Erstes Solo
 
 \pagebreak
 
-## Woche 26 - Stormbringer
+## Woche 29 - Unbreakable Erstes Solo
+
+\pagebreak
+
+## Woche 30 - Jamtrack Challenge
+
+\pagebreak
+
+## Woche 31 - Stormbringer
+
+\pagebreak
+
+## Woche 32 - Stormbringer Harmonisierung
+
+\pagebreak
+
+## Woche 33 - Hands of Destruction
