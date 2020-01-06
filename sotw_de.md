@@ -52,6 +52,60 @@ Hier als kleiner Refresher die Techniken, die Du bereits beherrschen solltest
 
 \pagebreak
 
+## Theorie
+
+### Notennamen
+
+Bei den meisten Musikern sorgt die Unterscheidung der Tonbezeichnungen “B” und “H” für Verwirrung. 
+Leider hat sich im deutschen Sprachraum (aber auch in Norwegen, Polen und in der Slowakei) 
+die Bezeichnung “H” für den 7. Ton der C-Durtonleiter durchgesetzt. 
+
+Wer sich englischsprachige Literatur reinzieht, stolpert früher oder später über dieses Problem der Tonbennenung.
+
+Doch jetzt mal der Reihe nach:
+
+Eine C-Dur Durtonleiter besteht aus den Tönen 
+
+C D E F G A H 
+
+Im Englischen schreibt man hingegen 
+
+C D E F G A B
+
+Das die englische Version mit “B” die richtige Fassung ist, sieht man, wenn man die Töne von A ausgehend aufschreibt und gegenüberstellt:
+A _B_ C D E F G
+A _H_ C D E F G
+
+Genau. H passt nicht rein.
+ 
+Eine urban legend besagt, dass ein Mönch im Mittelalter einfach beim Abschreiben von Notentexten den unteren Bogen des 
+kleinen “b” vergessen haben soll und seitdem “b” immer wie “h” geschrieben worden ist. 
+Nette Geschichte, auch wenn’s keiner beweisen kann.
+
+Schlimmer wird die ganze Geschichte noch dadurch, dass das um einen Halbtonschritt erniedrigte H im Deutschen auch noch B genannt wird. 
+
+Verwirrung komplett?
+
+deutsch H wird zu B
+englisch B wird zu Bb (gesprochen “bie flätt”)
+
+Das die englische Variante konsistenter ist sieht man auch sofort:
+
+As B Ces Des Es Fes Ges
+Ab Bb Cb Db Eb Fb Gb
+
+Jup, ich hänge einfach an jeden Buchstaben ein b und damit ist der Drops gelutscht.
+
+Nun gut, die saubere Variante ist nun klar die englische. 
+Aber man kann ja jetzt nicht alle zwingen, nur noch die internationale Bezeichnung zu benutzen. 
+Genauso wenig wie wir irgendwann statt “einunzwanzig” “ zwanzigeins” sagen werden. Ist halt nunmal so.
+
+Wichtig finde ich aber, dass man erkennt, in welchen Kontext man sich befindet und dann konsequent _eine_ Bezeichnung benutzt, 
+also nicht “H” und “Bb” zusammen, sondern entweder nur “H” und “B” oder nur “B” und “Bb”
+
+Da dies die deutschsprachige Fassung des Buches ist, benutzen wir H/B statt B/Bb.
+
+
 ## Woche 1 - Evil Lynn
 
 Unser erstes Solo stammt aus dem Excess Pressure Titel "Evil Lynn":
@@ -611,7 +665,7 @@ Warum funktioniert das?
 
 D-Dur besteht aus D-F#-A. D ist die Quinte von G und A die große None, wie oben erwähnt. 
 Das F# ist die große Septime zu G-Dur, klingt eigentlich nicht so prall. Ist in diesem Fall aber nicht so schlimm, 
-da F# auf der Zählzeit 1+ kommt und damit eine  Durchgangsnote ist.
+da F# auf der Zählzeit 1+ kommt und damit eine Durchgangsnote ist.
 
 ### Takte 9 bis 12
 
