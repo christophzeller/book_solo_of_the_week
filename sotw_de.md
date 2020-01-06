@@ -4,6 +4,12 @@
 
 ![Daniel & Jörn](images/authors/daniel_joern.jpg "Daniel und Jörn")
 
+### Daniel Knauer
+
+![Daniel & Jörn](images/authors/daniel_victor.JPG "Daniel und Jörn")
+
+Baujahr 
+
 \pagebreak
 
 ## Einleitung
@@ -28,20 +34,21 @@ Wir zeiegen Dir nur von uns selbst geschriebene Sachen, das tausendste "So spiel
 ## Voraussetzungen 
 Damit Du optimal von diesem Buch profitierst, solltest Du bereits ein wenig Gitarre spielen können.
 
-## Techniken
+### Techniken
 
-Hier als kleiner Refresher die Techniken, die Du bereits beherrschen
-### Slides
+Hier als kleiner Refresher die Techniken, die Du bereits beherrschen solltest
+
+#### Slides
 
 ![Slides](images/technique/slides.png "Slides")
 
-### Bending
+#### Bending
 
-### Tapping
+#### Tapping
 
-### Sweeping
+#### Sweeping
 
-### Economy Picking
+#### Economy Picking
 
 \pagebreak
 
