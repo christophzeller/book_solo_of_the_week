@@ -14,20 +14,20 @@ Baujahr
 
 ## Einleitung
 Oh nein, noch ein Gitarrenbuch! Lasst mich in Ruhe, ich muss doch noch die Grifftabelle mit den 1500 wichtigsten 
-akkorden auswendig lernen und die Bücher von Peter Bursch habe ich auch noch nicht alle gelesen. Was wollt ihr denn jetzt noch von mir?
+Akkorden auswendig lernen und die Bücher von Peter Bursch habe ich auch noch nicht alle gelesen. Was wollt ihr denn jetzt noch von mir?
 
 Tja, gute Frage, warum haben wir dieses Buch geschrieben und wollen, dass Du es auch liest?
 
 1. Ein Buch gegen das sinnlose Gegniedel von Pentatonik-Skalen
 Wir wollen dir zeigen, dass es auch ein Leben nach der A-Moll-Pentatonik am 5. Bund geben kann, 
-in dem Du verstehen lernst wann Du welchen Noten speilen solltest
+in dem Du verstehen lernst wann Du welche Noten spielen solltest
 
 2. Hilfe zur Selbsthilfe
 Wir zeigen dir Techniken / Regeln, die dir helfen sollen eigene Soli zu entwickeln
 
 ### Was ist dieses Buch nicht?
 
-Wir zeiegen Dir nur von uns selbst geschriebene Sachen, das tausendste "So spielst Du thunderstruck von AC/DC" findest Du hier nicht!
+Wir zeigen Dir nur von uns selbst geschriebene Sachen, das tausendste "So spielst Du Thunderstruck von AC/DC" findest Du hier nicht!
 
 \pagebreak
 
@@ -77,7 +77,7 @@ Bei den meisten Musikern sorgt die Unterscheidung der Tonbezeichnungen “B” u
 Leider hat sich im deutschen Sprachraum (aber auch in Norwegen, Polen und in der Slowakei) 
 die Bezeichnung “H” für den 7. Ton der C-Durtonleiter durchgesetzt. 
 
-Wer sich englischsprachige Literatur reinzieht, stolpert früher oder später über dieses Problem der Tonbennenung.
+Wer sich englischsprachige Literatur reinzieht, stolpert früher oder später über dieses Problem der Tonbenennung.
 
 Doch jetzt mal der Reihe nach:
 
@@ -89,7 +89,7 @@ Im Englischen schreibt man hingegen
 
 C D E F G A B
 
-Das die englische Version mit “B” die richtige Fassung ist, sieht man, wenn man die Töne von A ausgehend aufschreibt und gegenüberstellt:
+Dass die englische Version mit “B” die richtige Fassung ist, sieht man, wenn man die Töne von A ausgehend aufschreibt und gegenüberstellt:
 A _B_ C D E F G
 A _H_ C D E F G
 
@@ -106,7 +106,7 @@ Verwirrung komplett?
 deutsch H wird zu B
 englisch B wird zu Bb (gesprochen “bie flätt”)
 
-Das die englische Variante konsistenter ist sieht man auch sofort:
+Dass die englische Variante konsistenter ist sieht man auch sofort:
 
 As B Ces Des Es Fes Ges
 Ab Bb Cb Db Eb Fb Gb
@@ -130,7 +130,7 @@ Da dies die deutschsprachige Fassung des Buches ist, benutzen wir H/B statt B/Bb
 
 ## Woche 1 - Evil Lynn
 
-Unser erstes Solo stammt aus dem Excess Pressure Titel "Evil Lynn":
+Unser erstes Solo stammt aus dem Excess Pressure-Titel "Evil Lynn":
 
 ### Riff
 
@@ -155,7 +155,7 @@ Powerchords eine Oktave höher mit dem zusätzlichen Durchgangston F.
 
 ![Takte 9 bis 12](images/evil_lynn/evil_lynn_solo_takte_9_bis_12.png "Takte 9 bis 12")
 
-Um die Spannung etwas zu steigern wiederholen wir die letzten Takte, ergänze aber die Sechzehntel-Noten auf der Zählzeit 1.
+Um die Spannung etwas zu steigern wiederholen wir die letzten Takte, ergänzen aber die Sechzehntel-Noten auf der Zählzeit 1.
 
 ### Takte 13 bis 16
 
@@ -163,7 +163,7 @@ Um die Spannung etwas zu steigern wiederholen wir die letzten Takte, ergänze ab
 
 Jetzt geht es ab: Sweep-Picking mit Achtel-Triolen gefolgt von einem kleinen Lauf in Viertel-Triolen.
 Das erste Arpeggio ist ein D-Moll, das Arpeggio in Takt 15 ein B-Dur. In Takt 16 spielen wir statt dem C ein Cis und 
-gehe damit in den Modus D harmonisch Moll.
+gehen damit in den Modus D harmonisch Moll.
 
 
 ### Takte 17 bis 21
@@ -193,11 +193,11 @@ Das sind die Akkorde, die wir spielen. Sieht verdächtig nach Cis-Moll als Tonar
 
 ![Takte 1 bis 5](images/cream_cheese/cream_cheese_bars_1_5.png "Akkorde")
 
-Entspannt starten wir mit einem Cis-Moll-Arpeggio. Mit dem D# komm ein zusätzlicher Ton ins Spiel, die große None. 
+Entspannt starten wir mit einem Cis-Moll-Arpeggio. Mit dem Dis komm ein zusätzlicher Ton ins Spiel, die große None. 
 Wie ihr sicher wisst, kann man mit einem Auftakt sehr gut die Aufmerksamkeit auf sich lenken, dazu noch leicht die Töne 
 synkopiert spielen und schon hat man eine eingängige Melodie.
-Im Takt 4 bringen wir dann ein E-Dur-Arpeggio, wieder mit großer None (F#). Den Abschluss der Phrase bildet dann ein 
-kleiner Lauf mit dem Zielton C#, der großen None von H. Welch ein Wunder :-)
+Im Takt 4 bringen wir dann ein E-Dur-Arpeggio, wieder mit großer None (Fis). Den Abschluss der Phrase bildet dann ein 
+kleiner Lauf mit dem Zielton Cis, der großen None von H. Welch ein Wunder :-)
 
 ### Takte 6 bis 9
 
@@ -210,7 +210,7 @@ Dis in der Terz vom H-Dur auflöst. Nice.
 
 ![Takte 10 bis 13](images/cream_cheese/cream_cheese_bars_10_13.png "Akkorde") 
 
-Im dritten Durchgang spielen wir wieder ein C#-Moll-Arpeggio, allerdings ein paar Lagen höher. Wer es genauer wissen will, 
+Im dritten Durchgang spielen wir wieder ein Cis-Moll-Arpeggio, allerdings ein paar Lagen höher. Wer es genauer wissen will, 
 es handelt sich um die erste Umkehrung des Moll-Dreiklangs. Rhythmisch imitieren wir die Ursprungsphrase, 
 damit man die neue Phrase als Weiterentwicklung erkennt.
 In Takt 12 folgt dann das E-Dur-Arpeggio in Grundstellung.
@@ -227,8 +227,8 @@ spielen quasi die Melodie.
 
 ![Takte 16 bis 18](images/cream_cheese/cream_cheese_bars_16_18.png "Akkorde") 
 
-Da mir das so gut gefällt, wiederholen wir das Muster nochmal mit dem E-Dur-Dreiklang, spiele aber ein leicht 
-verändertes Melodie-Tapping und lande ganz geschmackssicher in Takt 18 mit dem C# im Grundton von C#-Moll. Voilá!
+Da mir das so gut gefällt, wiederholen wir das Muster nochmal mit dem E-Dur-Dreiklang, spielen aber ein leicht 
+verändertes Melodie-Tapping und landen ganz geschmackssicher in Takt 18 mit dem Cis im Grundton von Cis-Moll. Voilá!
 
 \pagebreak
 
