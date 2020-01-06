@@ -40,15 +40,32 @@ Hier als kleiner Refresher die Techniken, die Du bereits beherrschen solltest
 
 #### Slides
 
+
 ![Slides](images/technique/slides.png "Slides")
+
 
 #### Bending
 
+
+![Bending](images/technique/bending.png "Bending")
+
 #### Tapping
+
+
+![Tapping](images/technique/tapping.png "Tapping")
+
 
 #### Sweeping
 
+
+![Sweeping](images/technique/sweep_picking.png "Sweeping")
+
+
 #### Economy Picking
+
+
+![Economy Picking](images/technique/economy_picking.png "Economy Picking")
+
 
 \pagebreak
 
@@ -105,6 +122,11 @@ also nicht “H” und “Bb” zusammen, sondern entweder nur “H” und “B�
 
 Da dies die deutschsprachige Fassung des Buches ist, benutzen wir H/B statt B/Bb.
 
+\pagebreak
+
+### Griffbrettübersicht
+
+\pagebreak
 
 ## Woche 1 - Evil Lynn
 
