@@ -707,6 +707,53 @@ Viel Spaß beim Zocken!
 
 ## Woche 12 - Blood Angel
 
+### Tonart-Analyse
+
+
+Die Akkorde sind Em, D und C. Also haben wir es mit der Tonart G-Dur bzw. E-Moll zu tun.
+
+
+### Takte 1 bis 4
+
+![Takte 1 und 2](images/blood_angel/blood_angel_takte_1_bis_2.png "Takte 1 und 2") 
+
+
+Bauen wir uns als erstes ein Motiv. 
+Unser Motiv fängt auf der 3 des ersten Taktes an und geht bis zur 2 des nächsten Taktes (Grüner Kreis). 
+Rhythmisch interessant wird unser Motiv durch die Synkopen.
+
+![Takte 3 und 4](images/blood_angel/blood_angel_takte_3_bis_4.png "Takte 3 und 4") 
+
+
+Das Motiv wird viermal wiederholt, wobei ich beim zweiten Mal lediglich die letzten zwei Schläge ändere. 
+Beim dritten Mal gehe ich eine Saite nach oben, beim vierten Mal außerdem hoch zum 17. Bund.
+Spannung steigern wir also durch das Verschieben des Motivs über das Griffbrett.
+
+
+### Takte 5 bis 8
+
+![Takte 5 und 6](images/blood_angel/blood_angel_takte_5_bis_6.png "Takte 3 und 4") 
+
+
+Noch mehr Spannung können wir aufbauen, wenn wir rhythmisch dichter spielen. Deshalb bringe ich in Takt 5 auch die Sechzehntel-Triolen.
+In Takt 6 spiele ich wieder das Originalmotiv aus Takt 1, allerdings jetzt auf der G- und der D-Saite. Dadurch verändert sich der Sound, da die tieferen Saiten etwas dumpfer klingen, und auch die Pinch Harmonics einen anderen Charakter haben.
+
+![Takte 3 und 4](images/blood_angel/blood_angel_takte_7_bis_8.png "Takte 3 und 4") 
+
+
+In Takt 7 erzeuge ich noch mit einer kleinen String-Skipping-Idee etwas Aufmerksamkeit, 
+bevor es mit entspannten Achteltriolen in den Zielton E geht (Bending vom 22. Bund aus).
+
+\pagebreak
+
+## Woche 13 - Blood Angel Harmonisierung
+
+![Takte 3 und 4](images/blood_angel/blood_angel_harmony_1_2.png "Takte 3 und 4") 
+
+![Takte 3 und 4](images/blood_angel/blood_angel_harmony_3_4.png "Takte 3 und 4") 
+![Takte 3 und 4](images/blood_angel/blood_angel_harmony_5_6.png "Takte 3 und 4") 
+![Takte 3 und 4](images/blood_angel/blood_angel_harmony_7_9.png "Takte 3 und 4") 
+
 \pagebreak
 
 ## Woche 13 - Voices In My Head
